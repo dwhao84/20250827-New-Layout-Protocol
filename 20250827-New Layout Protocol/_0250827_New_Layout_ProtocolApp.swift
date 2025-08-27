@@ -11,7 +11,7 @@ import SwiftUI
 struct _0250827_New_Layout_ProtocolApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LayoutIntroView()
         }
     }
 }
