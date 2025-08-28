@@ -74,7 +74,7 @@ struct EqualSizeLayout: Layout {
 
 // MARK: - 測試 Layout
 struct LayoutViewTest: View {
-    
+
     let tags = [
         "WWDC22", "SwiftUI", "Swift", "Apple", "iPhone", "iPad", "iOS"
     ]
@@ -106,6 +106,12 @@ struct TextButton : View {
     }
 }
 
+
+
 #Preview {
     LayoutViewTest()
 }
+
+/*
+ https://www.youtube.com/watch?v=du_Bl7Br9DM&list=PLXM8k1EWy5ki1c36h_0hTWgMwt3SRzqVX&index=2
+ */
